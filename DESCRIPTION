@@ -1,0 +1,10 @@
+Package: rating
+Type: Package
+Title: Rating package based on an index system
+Version: 0.1.5
+Author: Xu Zhao
+Maintainer: Xu Zhao <zhaoxu@3golden.com.cn>
+Description: multi-index rating
+License: Copyright by 3Golden Company, 2016
+Imports: data.table (>= 1.9.6)
+Depends: R (>= 3.2.0)
