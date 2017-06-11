@@ -1,7 +1,7 @@
 # Install the package
 > install.package('devtools')
 
-> devtools::install_git(url='http://172.16.2.166/zhaoxu/rating.git')
+> devtools::install_git(url='https://github.com/DataShrimp/rating.git')
 
 Or you can use the built zip packages in build directory.
 
